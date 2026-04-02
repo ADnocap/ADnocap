@@ -4,8 +4,7 @@
 
 MSc in Artificial Intelligence @ [CentraleSupélec](https://www.centralesupelec.fr/) · Paris, France
 
-I build things at the intersection of **deep learning** and **quantitative finance**.  
-From fine-tuning domain-specific LLMs to trading polymarket. I turn research into code that works.
+[![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)](https://www.anthropic.com) Claude for the win
 
 </div>
 
