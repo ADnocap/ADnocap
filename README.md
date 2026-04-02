@@ -5,8 +5,8 @@
 MSc in Artificial Intelligence @ [CentraleSupélec](https://www.centralesupelec.fr/) · Paris, France
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexdalban/)
-<a href="https://claude.ai"><img src="claude-logo.svg" height="30" alt="Claude" /></a> Claude for the win
+I love
+<a href="https://claude.ai"><img src="claude-logo.svg" height="30" alt="Claude" /></a> 
 
 </div>
 
