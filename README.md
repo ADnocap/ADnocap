@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=D79921&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=60&lines=QuantAI+Researcher+%7C+MSc+%40+CentraleSup%C3%A9lec+%7C+Quant)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=D79921&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=60&lines=Quant+Finance+%7C+AI+Research+%7C+MSc+%40+CentraleSup%C3%A9lec)](https://git.io/typing-svg)
 
 MSc in Artificial Intelligence @ [CentraleSupélec](https://www.centralesupelec.fr/) · Paris, France
 
