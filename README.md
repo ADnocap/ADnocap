@@ -7,8 +7,6 @@ MSc in Artificial Intelligence @ [CentraleSupélec](https://www.centralesupelec.
 I build things at the intersection of **deep learning** and **quantitative finance**.  
 From fine-tuning domain-specific LLMs to trading polymarket. I turn research into code that works.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexdalban/)
-
 </div>
 
 ---
