@@ -4,7 +4,7 @@
 
 MSc in Artificial Intelligence @ [CentraleSupélec](https://www.centralesupelec.fr/) · Paris, France
 
-[![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)](https://www.anthropic.com) Claude for the win
+[![Claude](https://claude.ai/images/claude_star_spark.svg)](https://claude.ai)  Claude for the win
 
 </div>
 
