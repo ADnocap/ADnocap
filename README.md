@@ -4,10 +4,6 @@
 
 MSc in Artificial Intelligence @ [CentraleSupélec](https://www.centralesupelec.fr/) · Paris, France
 
-
-I love
-<a href="https://claude.ai"><img src="claude-logo.svg" height="30" alt="Claude" /></a> 
-
 </div>
 
 ---
