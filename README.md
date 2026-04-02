@@ -4,11 +4,9 @@
 
 MSc in Artificial Intelligence @ [CentraleSupélec](https://www.centralesupelec.fr/) · Paris, France
 
-I build things at the intersection of **deep learning** and **quantitative finance**.
-From fine-tuning domain-specific LLMs to trading polymarket. I turn research into code that works.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexdalban/)
-<a href="https://claude.ai"><img src="claude-logo.svg" height="30" alt="Claude" /></a>
+<a href="https://claude.ai"><img src="claude-logo.svg" height="30" alt="Claude" /></a> Claude for the win
 
 </div>
 
