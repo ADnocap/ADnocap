@@ -1,16 +1,25 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**ADnocap/ADnocap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=D79921&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=AI+Researcher+%7C+MSc+%40+CentraleSup%C3%A9lec+%7C+Quant)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+MSc in Artificial Intelligence @ [CentraleSupélec](https://www.centralesupelec.fr/) · Paris, France
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build things at the intersection of **deep learning** and **quantitative finance**.  
+From fine-tuning domain-specific LLMs to trading polymarket. I turn research into code that works.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexdalban/)
+
+</div>
+
+---
+
+### 📊 Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ADnocap&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADnocap&layout=compact&theme=gruvbox&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ADnocap&theme=gruvbox&hide_border=true" />
+
+</div>
