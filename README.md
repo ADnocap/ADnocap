@@ -16,3 +16,4 @@ MSc in Artificial Intelligence @ [CentraleSupélec](https://www.centralesupelec.
 <img src="https://streak-stats.demolab.com/?user=ADnocap&theme=gruvbox&hide_border=true" />
 
 </div>
+
