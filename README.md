@@ -7,9 +7,9 @@ BS in Mathematics and Computer Science @ [Boston College](https://www.bc.edu/) �
 MSc in Artificial Intelligence @ [CentraleSupélec](https://www.centralesupelec.fr/) · Paris, France
 
 
-**Curent Role**
+**Current Role**
 
-Ai Research Intern @ [Siemens AG](https://www.siemens.com/) · Munich, Germany
+AI Research Intern @ [Siemens AG](https://www.siemens.com/) · Munich, Germany
 
 </div>
 
@@ -22,4 +22,3 @@ Ai Research Intern @ [Siemens AG](https://www.siemens.com/) · Munich, Germany
 
 
 </div>
-
