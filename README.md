@@ -10,6 +10,3 @@ MSc in Artificial Intelligence @ [CentraleSupélec](https://www.centralesupelec.
 **Current Role**
 
 AI Research Intern @ [Siemens AG](https://www.siemens.com/) · Munich, Germany
-
-
-**Portfolio:** https://adnocap.github.io/
