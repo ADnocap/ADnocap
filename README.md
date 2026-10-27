@@ -7,6 +7,10 @@ BS in Mathematics and Computer Science @ [Boston College](https://www.bc.edu/) �
 MSc in Artificial Intelligence @ [CentraleSupélec](https://www.centralesupelec.fr/) · Paris, France
 
 
-**Current Role**
+**Most Recent Role**
 
-AI Research Intern @ [Siemens AG](https://www.siemens.com/) · Munich, Germany
+Applied AI Research Intern @ [Siemens AG](https://www.siemens.com/) · Munich, Germany (May to October 2026)
+
+**Now**
+
+Based in London, finishing the MSc (November 2026) · [adnocap.github.io](https://adnocap.github.io)
